@@ -19,5 +19,5 @@ class wyapx:
 <details>
 <summary>看到我了吗</summary>
 
-~~**还不快把star和follow给我交了**~~
+~~**其实我是SB**~~
 </details>
