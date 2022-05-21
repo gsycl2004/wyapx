@@ -19,5 +19,5 @@ class wyapx:
 <details>
 <summary>看到我了吗</summary>
 
-~~**其实我是SB**~~
+~~**其实我是0**~~
 </details>
